@@ -1,4 +1,3 @@
-
 #ifndef VariableDelay_h
 #define VariableDelay_h
 
@@ -17,10 +16,10 @@ public:
 	int getSleepTime();
 
 	int getDelay();
-	int setDelay();
+	void setDelay(int delay);
 
 	int getDelta();
-	int setDelta();
+	void setDelta(int delta);
 
 };
 
