@@ -1,5 +1,5 @@
-#ifndef VariableDelay_h
-#define VariableDelay_h
+#ifndef VARIABLEDELAY_H
+#define VARIABLEDELAY_H
 
 class VariableDelay {
 

@@ -1,4 +1,3 @@
-
 #include "VariableDelay.h"
 #include <cstdlib>
 

@@ -1,5 +1,5 @@
-#ifndef ConsoleInterface_h
-#define ConsoleInterface_h
+#ifndef CONSOLEINTERFACE_H
+#define CONSOLEINTERFACE_H
 
 #include "AutoClicker.h"
 

@@ -1,5 +1,5 @@
-#ifndef AutoClicker_h
-#define AutoClicker_h
+#ifndef AUTOCLICKER_H
+#define AUTOCLICKER_H
 
 #include "VariableDelay.h"
 

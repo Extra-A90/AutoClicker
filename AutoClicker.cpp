@@ -34,7 +34,9 @@ void AutoClicker::rightClick() {
 
 void AutoClicker::delayedClick(int mouse) {
     
-     Sleep(variableDelay->getSleepTime());
+    int sleepTime getSleepTime());
+    std::cout << sleepTime << endl;
+    Sleep(sleepTime);
     
     if(mouse == 0) {
         leftClick();
